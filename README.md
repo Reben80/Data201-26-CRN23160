@@ -36,7 +36,7 @@ This repository is the course hub for DATA 201. Weekly materials, labs, readings
 
 - [An Introduction to Statistical Learning with Python (ISLP)](ISLP_website.pdf)
 - [Introduction to Machine Learning with Python, Chapter 1 (Müller & Guido)](IMLP-Ch1.pdf)
-- [GitHub project repository setup guide](Github%20Project%20Repo.pdf)
+- [GitHub project repository setup guide](Github-Project-Repo-Setup.md) ([PDF](Github%20Project%20Repo.pdf))
 
 ISLP is also available as a free PDF from the [authors' website](https://www.statlearning.com/).
 

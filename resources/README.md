@@ -24,7 +24,7 @@ Shared resources for the course.
 
 ## Project setup
 
-- [GitHub project repository setup guide](../Github%20Project%20Repo.pdf)
+- [GitHub project repository setup guide](../Github-Project-Repo-Setup.md) ([PDF](../Github%20Project%20Repo.pdf))
 
 Add datasets, templates, rubrics, or other shared files here as needed.
 

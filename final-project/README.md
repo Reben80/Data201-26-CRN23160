@@ -6,7 +6,7 @@ The final project is due **Week 15 (December 17, 2026)**. Week 14 (December 10) 
 
 The final project is a cumulative, end-to-end data science project. Students will frame a problem, prepare and document data, apply appropriate modeling methods, evaluate model performance, interpret results, and communicate conclusions and limitations.
 
-For the expected GitHub folder layout, see [Github Project Repo.pdf](../Github%20Project%20Repo.pdf).
+For the expected GitHub folder layout, see [Github-Project-Repo-Setup.md](../Github-Project-Repo-Setup.md) ([PDF](../Github%20Project%20Repo.pdf)).
 
 Add project files, write-up, code, and instructions here as they become available.
 
