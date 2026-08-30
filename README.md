@@ -27,8 +27,10 @@ This repository is the course hub for DATA 201. Weekly materials, labs, readings
 
 ## Quick links
 
-| [📁 Resources](resources/) | [📁 Project 1](project1/) | [📁 Project 2](project2/) | [📁 Final Project](final-project/) |
-|----------------------------|---------------------------|---------------------------|------------------------------------|
+| [📄 Syllabus](syllabus/) | [📁 Resources](resources/) | [📁 Project 1](project1/) | [📁 Project 2](project2/) | [📁 Final Project](final-project/) |
+|--------------------------|----------------------------|---------------------------|---------------------------|------------------------------------|
+
+**Current syllabus:** [DATA 201 Fall 2026 syllabus (v1)](syllabus/DATA201_Fall2026_syllabus_v1.pdf)
 
 **Textbooks in this repo**
 

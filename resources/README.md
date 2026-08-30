@@ -4,6 +4,11 @@
 
 Shared resources for the course.
 
+## Syllabus
+
+- Current: [DATA 201 Fall 2026 syllabus (v1)](../syllabus/DATA201_Fall2026_syllabus_v1.pdf)
+- All versions: [syllabus/](../syllabus/)
+
 ## Textbooks and readings
 
 - [An Introduction to Statistical Learning with Python (ISLP)](../ISLP_website.pdf) — primary textbook. Also free from the [authors' website](https://www.statlearning.com/).
