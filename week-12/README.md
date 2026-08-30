@@ -1,12 +1,18 @@
-# Week 12 — Apr 30
+# Week 12 — Nov 19
 
 **DATA 201: Statistical Methods in Data Science**
 
 ## Topics
 
-- **Tree-based methods** — Using trees for prediction and interpretation.
-- **Decision trees** — Splitting rules, pruning, and reading tree structure.
-- **Random forests** — Ensembles of trees, bagging, and variable importance.
+- **Neural networks** — Flexible models built from layers of linear combinations and nonlinear activations.
+- **Perceptron, hidden layers, and activation functions** — How a network transforms inputs into predictions.
+- **Loss functions, gradient descent, and backpropagation intuition** — How the network is trained, at a conceptual level.
+
+## Resources / assignment
+
+- ISLP Chapter 10
+- Müller & Guido neural-network section
+- Introductory neural-network lab
 
 ## Notes
 
@@ -15,4 +21,4 @@
 
 ---
 
-*See main [README.md](../README.md) for the full course schedule.*
+*See the main [README.md](../README.md) for the full course schedule.*

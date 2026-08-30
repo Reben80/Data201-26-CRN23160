@@ -1,14 +1,18 @@
-# Week 8 — Apr 2
+# Week 8 — Oct 22
 
 **DATA 201: Statistical Methods in Data Science**
 
 ## Topics
 
-- **Classification (continued)** — Deeper coverage of classification algorithms, tuning, and evaluation (e.g., ROC, confusion matrix).
+- **Regularization and model complexity** — Controlling how flexible a linear model is allowed to be.
+- **Ridge and lasso** — Shrinkage methods that penalize large coefficients; lasso can also set some coefficients to zero.
+- **Bias–variance tradeoff** — Why a slightly biased but more stable model can predict better.
+- **Interpretability vs. flexibility** — When a simpler, more readable model is preferable to a more flexible one.
 
-## Milestone
+## Resources / assignment
 
-- **Project 1 Presentations**
+- ISLP Chapter 6
+- Regularization lab
 
 ## Notes
 
@@ -17,4 +21,4 @@
 
 ---
 
-*See main [README.md](../README.md) for the full course schedule.*
+*See the main [README.md](../README.md) for the full course schedule.*

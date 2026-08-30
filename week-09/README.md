@@ -1,12 +1,19 @@
-# Week 9 — Apr 9
+# Week 9 — Oct 29
 
 **DATA 201: Statistical Methods in Data Science**
 
 ## Topics
 
-- **Resampling methods** — Cross-validation, bootstrap, and using them for model assessment and selection.
-- **Regularization** — Ridge, Lasso, and Elastic Net; how they constrain coefficients and improve generalization.
-- **Optimization concepts** — How fitting and tuning relate to optimization (e.g., loss, gradients, convergence).
+- **Decision trees** — Partitioning the feature space with a sequence of splits.
+- **Splitting, impurity, and pruning** — How trees choose splits and how they are kept from growing too large.
+- **Classification and regression trees** — Trees for categorical outcomes and for quantitative outcomes.
+- **Interpretation** — Reading a tree, important splits, and limitations of a single tree.
+
+## Resources / assignment
+
+- ISLP Chapter 8
+- Müller & Guido Chapter 2
+- Decision-tree lab
 
 ## Notes
 
@@ -15,4 +22,4 @@
 
 ---
 
-*See main [README.md](../README.md) for the full course schedule.*
+*See the main [README.md](../README.md) for the full course schedule.*

@@ -1,11 +1,18 @@
-# Week 10 — Apr 16
+# Week 10 — Nov 5
 
 **DATA 201: Statistical Methods in Data Science**
 
 ## Topics
 
-- **Neural networks** — Structure of feedforward networks, layers, activation functions, and basic training.
-- **Deep learning fundamentals** — Key ideas in deep learning: backpropagation, common architectures, and when they are useful.
+- **Ensemble methods** — Combining many models to improve stability and predictive performance.
+- **Bagging, random forests, and boosting** — Parallel resampling versus sequential error-correcting ensembles.
+- **Variable importance** — Summarizing which features the ensemble relies on, and treating those summaries with care.
+
+## Resources / assignment
+
+- ISLP Chapter 8
+- Müller & Guido Chapter 2
+- Ensemble comparison lab
 
 ## Notes
 
@@ -14,4 +21,4 @@
 
 ---
 
-*See main [README.md](../README.md) for the full course schedule.*
+*See the main [README.md](../README.md) for the full course schedule.*

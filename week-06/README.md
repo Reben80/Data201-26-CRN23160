@@ -1,11 +1,29 @@
-# Week 6 — Mar 19
+# Week 6 — Oct 8
 
 **DATA 201: Statistical Methods in Data Science**
 
-## Spring Break — No Class
+## Topics
 
-No scheduled class this week. Use this folder for any catch-up materials, optional readings, or notes you add during the break.
+- **Cross-validation** — Using repeated splits to estimate generalization performance more honestly.
+- **Overfitting and underfitting** — Models that memorize the training data versus models that miss the signal.
+- **Hyperparameter tuning** — Choosing settings such as the number of neighbors or a penalty strength.
+- **Model selection** — Comparing candidate models without leaking test-set information.
+
+## Milestone
+
+- **Project 1 due**
+
+## Resources / assignment
+
+- ISLP Chapter 5
+- Müller & Guido Chapter 5
+
+## Notes
+
+- This folder is for Week 6 materials: notebooks, slides, datasets, and instructions.
+- Add labs, readings, or assignments here as the week is updated.
+- Project 1 details live in [project1/](../project1/).
 
 ---
 
-*See main [README.md](../README.md) for the full course schedule.*
+*See the main [README.md](../README.md) for the full course schedule.*

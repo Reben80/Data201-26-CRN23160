@@ -1,11 +1,18 @@
-# Week 7 — Mar 26
+# Week 7 — Oct 15
 
 **DATA 201: Statistical Methods in Data Science**
 
 ## Topics
 
-- **Extended generalized linear models** — GLMs beyond linear regression (e.g., logistic, Poisson) and when to use them.
-- **Classification methods** — Framing prediction as classification and introduction to key methods and evaluation.
+- **Feature engineering and modeling pipelines** — Turning raw inputs into features inside a repeatable workflow.
+- **Encoding, scaling, and transformations** — Preparing mixed-type data for models that expect numeric inputs.
+- **Feature selection** — Deciding which variables to keep and documenting why.
+- **Reproducible scikit-learn pipelines** — Combining preprocessing and a model so the same steps apply to new data.
+
+## Resources / assignment
+
+- Müller & Guido Chapters 3, 4, and 6
+- Pipeline-building lab
 
 ## Notes
 
@@ -14,4 +21,4 @@
 
 ---
 
-*See main [README.md](../README.md) for the full course schedule.*
+*See the main [README.md](../README.md) for the full course schedule.*

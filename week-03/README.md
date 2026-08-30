@@ -1,11 +1,18 @@
-# Week 3 — Feb 26
+# Week 3 — Sep 17
 
 **DATA 201: Statistical Methods in Data Science**
 
 ## Topics
 
-- **R to Python data analysis bridge (continued)** — More patterns and best practices for moving from R to Python.
-- **Applied examples and practice** — Hands-on exercises and small projects using the tools from Weeks 1–2.
+- **Logistic regression and classification foundations** — Modeling a binary (or categorical) outcome with a probability model.
+- **Probabilities and decision boundaries** — Turning predicted probabilities into class labels.
+- **Classification vs. inference** — Using logistic regression to predict labels versus to interpret associations.
+- **Loss / objective ideas** — What the model is optimizing and why that matters for results.
+
+## Resources / assignment
+
+- ISLP Chapter 4
+- Logistic regression Colab lab
 
 ## Notes
 
@@ -14,4 +21,4 @@
 
 ---
 
-*See main [README.md](../README.md) for the full course schedule.*
+*See the main [README.md](../README.md) for the full course schedule.*

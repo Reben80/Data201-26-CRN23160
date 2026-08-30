@@ -1,11 +1,19 @@
-# Week 2 — Feb 19
+# Week 2 — Sep 10
 
 **DATA 201: Statistical Methods in Data Science**
 
 ## Topics
 
-- **R to Python data analysis bridge** — Translating common R workflows and idioms into Python.
-- **Data structures and workflows** — Lists, dicts, DataFrames, and typical load–transform–analyze pipelines.
+- **Data preparation and reproducible workflows** — Cleaning and documenting data so later modeling steps can be repeated.
+- **Data quality and missing values** — Detecting problems in the data and deciding how to handle incomplete records.
+- **Categorical variables, scaling, and transformations** — Encoding categories and putting numeric features on comparable scales.
+- **Data leakage** — Avoiding information from the test set (or from the future) leaking into training.
+
+## Resources / assignment
+
+- ISLP Chapter 2 lab
+- Müller & Guido Chapter 4
+- Preprocessing lab
 
 ## Notes
 
@@ -14,4 +22,4 @@
 
 ---
 
-*See main [README.md](../README.md) for the full course schedule.*
+*See the main [README.md](../README.md) for the full course schedule.*

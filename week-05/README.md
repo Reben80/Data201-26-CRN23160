@@ -1,16 +1,19 @@
-# Week 5 — Mar 12
+# Week 5 — Oct 1
 
 **DATA 201: Statistical Methods in Data Science**
 
 ## Topics
 
-- **Feature transformations** — Log, scale, and other transforms to improve model fit and interpretability.
-- **Feature selection strategies** — Subset selection, shrinkage, and criteria for choosing which predictors to keep.
-- **Interpretability vs. model stability** — Tradeoffs between explainable models and predictive performance.
+- **Model evaluation** — Measuring how well a classifier actually performs.
+- **Train/test split** — Holding out data so performance is not estimated on the same observations used to fit the model.
+- **Confusion matrix and related metrics** — Accuracy, precision, recall, specificity, and F1.
+- **ROC-AUC and thresholds** — How the classification cutoff changes errors, and how to summarize ranking performance.
 
-## Milestone
+## Resources / assignment
 
-- **Project 1 Due + Presentations**
+- ISLP Chapter 5
+- Müller & Guido Chapter 5
+- Evaluation metrics lab
 
 ## Notes
 
@@ -19,4 +22,4 @@
 
 ---
 
-*See main [README.md](../README.md) for the full course schedule.*
+*See the main [README.md](../README.md) for the full course schedule.*
